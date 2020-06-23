@@ -118,8 +118,7 @@ p
 .Face {
   position: absolute;
   width: 10em;
-  border-radius: 100%;
-  left:50%;
+  border-radius: 100%;  
   margin-left:10%;
   margin-bottom: 10%;
   float: right;
