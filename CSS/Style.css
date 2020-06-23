@@ -119,12 +119,12 @@ p
   position: absolute;
   width: 10em;
   border-radius: 100%;
-  left:58%;
-  top: 100px;
-  margin-left: 20px;
-  margin-bottom: 20px;
-
+  left:50%;
+  margin-left:10%;
+  float: right;
+  top: 4em;
 }
+
 .btn {
   color: #445a4c;
   font-weight: bolder;
