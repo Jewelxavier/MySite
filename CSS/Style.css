@@ -145,24 +145,24 @@ p
 .BottomCloudleft {
   position: absolute;
   width: 7em;
-  left: 37%;
+  left: 40em;
 }
 .BottomCloudright{
   position: absolute;
   width: 5em;
   bottom: 6em;
-  right: 38%;
+  right: 45em;
 }
 .BottomCloud {
   position: absolute;
   width: 10em;
-  left: 45%;
+  left: 48em;
   bottom: 3em;
 }
 .BottomCloud2 {
   position: absolute;
   width: 6em;
-  left: 52%;
+  left: 60em;
   bottom: 6em;
 }
 .email {
