@@ -162,7 +162,7 @@ p
 .BottomCloud2 {
   position: absolute;
   width: 6em;
-  left: 60em;
+  right: 40em;
   bottom: 6em;
 }
 .email {
