@@ -1,98 +1,90 @@
 body {
   margin: 0;
   text-align: center;
-  font-family:verdana,sans-serif;
-
-
+  font-family: verdana, sans-serif;
 }
 
-h1{
+h1 {
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
   color: #85a392;
   padding-top: 10%;
 }
-H2{
+
+H2 {
   color: #85a390;
   padding-right: 5em;
   padding-bottom: 2em;
 }
-H3{
+
+H3 {
   color: #85a390;
 }
 
-p
-{
+p {
   font-size: 1.5em;
   margin-top: 0;
-  color:#85a390;
+  color: #85a390;
   font-family: 'Rancho', cursive;
   padding-bottom: 20px;
   padding-top: 5px;
   line-height: 2;
   text-align: left;
-
 }
 
-.Top-Container{
+.Top-Container {
   background-color: #ffecc7;
-  height :50em;
+  height: 50em;
   position: relative;
   margin: 0;
-
-
-
-
 }
+
 .Middle-Container {
   background-color: #fff5e1;
-
   position: relative;
   margin: 0;
-  padding:10% 20%;
-
-
-
+  padding: 10% 20%;
 }
+
 .Bottom-Container {
   background-color: #c3e3d3;
   position: relative;
-  margin:0;
+  margin: 0;
   height: 100px;
   padding: 50px 0 20px;
 }
 
-.SubHeading{
+.SubHeading {
   position: absolute;
   top: 12em;
   left: 52%;
   font-size: 2em;
-
-
 }
+
 .Mountain {
   width: 600px;
-  height : 300px;
+  height: 300px;
   position: absolute;
-  left:35%;
+  left: 35%;
   right: 35%;
   bottom: 0;
-
 }
 
 .LeftCloud {
-  width :10em;
+  width: 10em;
   position: absolute;
-  top : 15%;
+  top: 15%;
   left: 37.5em;
   padding-right: 10%;
 }
+
 .RightCloud {
-  width :12em;
+  width: 12em;
   position: absolute;
   right: 37.5em;
   top: 20em;
 }
+
 /**
 .namelogo {
   position: absolute;
@@ -105,45 +97,49 @@ p
 
 }
 **/
-.footer-link{
-  position:inherit;
+.footer-link {
+  position: inherit;
   color: #445a4c;
   padding: 0.5%;
   margin-bottom: 10%;
   margin-top: 10%;
   color: #445a4c;
 }
+
 .copyright {
-  font-family: verdana,sans-serif;
+  font-family: verdana, sans-serif;
   font-size: 15px;
-  color: grey;  
+  color: grey;
   text-align: center;
 }
+
 .Face {
   width: 20%;
   border-radius: 100%;
   float: right;
   margin-left: 5%;
-
 }
+
 .btn {
   color: #445a4c;
   font-weight: bolder;
+}
 
-  }
-.skill-image{
+.skill-image {
   width: 15em;
-  float:left;
+  float: left;
   margin-right: 35px;
 }
-.skill-row{
+
+.skill-row {
   width: 100%;
   margin: 25px auto 25px auto;
   text-align: left;
   line-height: 2;
 }
+
 .Clouds-Bottom {
-  margin:0;
+  margin: 0;
   padding-top: 10%
 }
 
@@ -151,32 +147,34 @@ p
   position: static;
   width: 7em;
   left: 45%;
-
 }
-.BottomCloudright{
+
+.BottomCloudright {
   position: static;
   width: 5em;
   right: 50%;
-
 }
+
 .BottomCloud {
   position: static;
   width: 10em;
   left: 40%;
-
 }
+
 .BottomCloud2 {
   position: static;
   width: 6em;
   right: 45%;
 }
+
 .email {
   width: 6em;
   padding: 20px;
   margin: 10px;
   border-radius: 100%;
 }
-.phone{
+
+.phone {
   width: 6em;
   padding: 20px;
   margin: 10px;
@@ -205,6 +203,7 @@ p
   background-image: linear-gradient(to bottom, #D6EFC7, #85A392);
   text-decoration: none;
 }
+
 .btn-about {
   -webkit-border-radius: 14;
   -moz-border-radius: 14;
@@ -229,7 +228,8 @@ p
   background-image: linear-gradient(to bottom, #ffecc7, #fff5e1);
   text-decoration: none;
 }
-.btn-Contact{
+
+.btn-Contact {
   -webkit-border-radius: 14;
   -moz-border-radius: 14;
   border-radius: 14px;
@@ -242,12 +242,13 @@ p
   font-weight: bold;
   display: inline;
 }
+
 .btn-Contact:hover {
-    background: #D6EFC7;
-    background-image: -webkit-linear-gradient(top, #ffecc7, #fff5e1);
-    background-image: -moz-linear-gradient(top, #ffecc7, #fff5e1);
-    background-image: -ms-linear-gradient(top, #ffecc7, #fff5e1);
-    background-image: -o-linear-gradient(top, #ffecc7, #fff5e1);
-    background-image: linear-gradient(to bottom, #ffecc7, #fff5e1);
-    text-decoration: none;
+  background: #D6EFC7;
+  background-image: -webkit-linear-gradient(top, #ffecc7, #fff5e1);
+  background-image: -moz-linear-gradient(top, #ffecc7, #fff5e1);
+  background-image: -ms-linear-gradient(top, #ffecc7, #fff5e1);
+  background-image: -o-linear-gradient(top, #ffecc7, #fff5e1);
+  background-image: linear-gradient(to bottom, #ffecc7, #fff5e1);
+  text-decoration: none;
 }
