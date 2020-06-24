@@ -116,14 +116,14 @@ p
 .copyright {
   font-family: verdana,sans-serif;
   font-size: 15px;
-  color: grey;
+  color: grey;  
+  text-align: center;
 }
 .Face {
   width: 20%;
   border-radius: 100%;
   float: right;
   margin-left: 5%;
-  text-align: center;
 
 }
 .btn {
