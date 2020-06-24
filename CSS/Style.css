@@ -139,29 +139,33 @@ p
   text-align: left;
   line-height: 2;
 }
+.Clouds-Bottom {
+  margin:0;
+  padding-top: 10%
+}
 
 .BottomCloudleft {
-  position: absolute;
+  position: static;
   width: 7em;
-  left: 40em;
+  left: 45%;
+
 }
 .BottomCloudright{
-  position: absolute;
+  position: static;
   width: 5em;
-  bottom: 6em;
-  right: 45em;
+  right: 50%;
+
 }
 .BottomCloud {
-  position: absolute;
+  position: static;
   width: 10em;
-  left: 48em;
-  bottom: 3em;
+  left: 40%;
+
 }
 .BottomCloud2 {
-  position: absolute;
+  position: static;
   width: 6em;
-  right: 40em;
-  bottom: 6em;
+  right: 45%;
 }
 .email {
   width: 6em;
