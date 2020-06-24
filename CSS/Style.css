@@ -10,7 +10,7 @@ h1{
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
   color: #85a392;
-  padding-top: 12%;
+  padding-top: 10%;
 }
 H2{
   color: #85a390;
@@ -30,7 +30,7 @@ p
   padding-bottom: 20px;
   padding-top: 5px;
   line-height: 2;
-
+  text-align: left;
 
 }
 
@@ -83,13 +83,15 @@ p
 .LeftCloud {
   width :10em;
   position: absolute;
-  top : 12.5em;
+  top : 15%;
   left: 37.5em;
+  padding-right: 10%;
 }
 .RightCloud {
   width :12em;
   position: absolute;
   right: 37.5em;
+  top: 20em;
 }
 /**
 .namelogo {
