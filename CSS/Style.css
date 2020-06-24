@@ -10,8 +10,7 @@ h1{
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
   color: #85a392;
-  padding-top: 10em;
-  margin: 0;
+  padding-top: 12%;
 }
 H2{
   color: #85a390;
@@ -78,7 +77,6 @@ p
   left:35%;
   right: 35%;
   bottom: 0;
-
 
 }
 
@@ -208,11 +206,11 @@ p
   color: #bcd4cc;
   font-size: 30px;
   background: #ffecc7;
-  padding: 1%;
+  padding: 1% 2%;
   text-decoration: none;
   font-weight: bold;
-  position: absolute;
-  left: 65%;
+  text-align: right;
+  display: inline;
 }
 
 .btn-about:hover {
@@ -232,11 +230,10 @@ p
   color: #bcd4cc;
   font-size: 30px;
   background: #ffecc7;
-  padding: 1%;
+  padding: 1% 2%;
   text-decoration: none;
   font-weight: bold;
-  position: absolute;
-  left: 72%;
+  display: inline;
 }
 .btn-Contact:hover {
     background: #D6EFC7;
